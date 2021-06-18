@@ -1,4 +1,4 @@
-# Big Geo Data Processing - Twente Course Elective (Oct-2019)
+# Modelling observer intensity in the Netherlands - Twente Course Elective (Oct-2019)
 Group 04 Assignment for the course Big Geo Data Processing 
 
 This project output is part of big geo data processing course work took place in 2nd year Msc, co-oridnated by staff from ITC- University of Twente, The Netherlands.
